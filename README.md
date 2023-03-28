@@ -2,6 +2,8 @@
 
 ## Script description in PHP
 
+####Before using the main script `index.php` use `create_table.php` to create a MySQL database
+
 This script performs the following actions:
 1. Gets information about the user using global variables.
 2. Checks if the string with the user's browser (HTTP_USER_AGENT value) contains a substring "DROP". If it does, it replaces the value of the variable `$ua` with the string "user-scamers".
