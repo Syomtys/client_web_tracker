@@ -12,5 +12,3 @@ This script performs the following actions:
 7. Closes the connection to the database.
 
 This script can be used to track user actions and detect attempts to break into the site based on the value of the user's browser.
-
-Translated with www.DeepL.com/Translator (free version)
